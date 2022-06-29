@@ -6,7 +6,7 @@ def main(s):
     Returns:
         int: answer
     """
-    return 
+     
     a=0
     if s[0].isdigts():
         a += 1
@@ -32,4 +32,4 @@ def main(s):
         a +=1
     else:
         a+=0
-    
+    return a
