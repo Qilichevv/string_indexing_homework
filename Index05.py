@@ -19,17 +19,17 @@ def main(s):
     if s[2].isdigts():
         a +=1
     else:
-        a=0
+        a+=0
     if s[3].isdigts():
         a += 1
     else:
-        a=0
+        a+=0
     if s[4].isdigts():
         a +=1
     else:
-        a=0
+        a+=0
     if s[5].isdigts():
         a +=1
     else:
-        a=0
+        a+=0
     
