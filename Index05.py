@@ -8,25 +8,26 @@ def main(s):
     """
      
     a=0
-    if s[0].isdigts():
+    if s[0].isdigit():
         a += 1
     else:
         0
-    if s[1].isdigts():
+    if s[1].isdigit():
         a +=1
     else:
         0
-    if s[2].isdigts():
+    if s[2].isdigit():
         a +=1
     else:
         0
-    if s[3].isdigts():
+    if s[3].isdigit():
         a += 1
     else:
         0
-    if s[4].isdigts():
+    if s[4].isdigit():
         a +=1
     else:
         0
     return a
+print(main('1e7ru'))
 
