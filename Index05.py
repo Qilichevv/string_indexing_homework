@@ -11,22 +11,22 @@ def main(s):
     if s[0].isdigts():
         a += 1
     else:
-        a+=0
+        0
     if s[1].isdigts():
         a +=1
     else:
-        a+=0
+        0
     if s[2].isdigts():
         a +=1
     else:
-        a+=0
+        0
     if s[3].isdigts():
         a += 1
     else:
-        a+=0
+        0
     if s[4].isdigts():
         a +=1
     else:
-        a+=0
+        0
     return a
 
