@@ -28,8 +28,5 @@ def main(s):
         a +=1
     else:
         a+=0
-    if s[5].isdigts():
-        a +=1
-    else:
-        a+=0
     return a
+
