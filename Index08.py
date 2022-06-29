@@ -6,5 +6,10 @@ def main(s):
     Returns:
         int: answer
     """
-    return
+    s = str(s)
+    if s.count("*") != 0:
+        jav = s.index("*")
+    else:
+        jav = False
+    return jav
         

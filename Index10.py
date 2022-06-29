@@ -6,4 +6,20 @@ def main(s):
     Returns:
         int: answer
     """
-    return
+    s=int(s)
+    s1=0%10
+    s//=10
+
+    s2=0%10
+    s//=10
+
+    s3=0%10
+    s//=10
+
+    s4 =0%10
+    s//=10
+
+    s5 =0%10
+    s//=10
+
+    return s1+s2+s3+s4+s5
