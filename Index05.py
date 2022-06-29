@@ -11,11 +11,11 @@ def main(s):
     if s[0].isdigts():
         a += 1
     else:
-        a=0
+        a+=0
     if s[1].isdigts():
         a +=1
     else:
-        a=0
+        a+=0
     if s[2].isdigts():
         a +=1
     else:
