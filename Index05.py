@@ -6,4 +6,30 @@ def main(s):
     Returns:
         int: answer
     """
-    return
+    return 
+    a=0
+    if s[0].isdigts():
+        a += 1
+    else:
+        a=0
+    if s[1].isdigts():
+        a +=1
+    else:
+        a=0
+    if s[2].isdigts():
+        a +=1
+    else:
+        a=0
+    if s[3].isdigts():
+        a += 1
+    else:
+        a=0
+    if s[4].isdigts():
+        a +=1
+    else:
+        a=0
+    if s[5].isdigts():
+        a +=1
+    else:
+        a=0
+    
